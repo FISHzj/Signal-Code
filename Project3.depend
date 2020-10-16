@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1602835422 source:e:\scpÂÛÎÄ\abro\abro_modi_mp\test2_modi_multi.c
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+	<omp.h>
+
